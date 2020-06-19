@@ -104,9 +104,9 @@
                     </h5>
                   </div>
                   <p class="lead">
-                    Hello! i'm <span class="spark">Richard Isaac,</span> A Software Engineer, System and DataBase Administrator, Graphic and Brand Designer, Digital Marketer, Photo and Video Editor. Based in Abuja, Nigeria. I am problem solving oriented! A Developer who believe in the community and is also gifted and Talented in solving problem with the help of Technology. I enjoy building smart and efficient stuffs using varieties of programming tools with this i have been able to help businesses reach their prospective client/customers and take their businesses to a next level.
+                    Hello! i'm <span class="spark">Richard Isaac,</span> A Software Engineer, System and DataBase Administrator, Graphic and Brand Designer, Digital Marketer, Photo and Video Editor. Based in Abuja, Nigeria. I am problem solving oriented! A Developer who believe in the community and is also gifted and Talented in solving problem with the help of Technologies. I enjoy building smart and efficient stuffs using varieties of programming tools with these i have been able to help businesses reach their prospective client/customers and take their businesses to a next level.
                       <br><br>
-                      <button class="btn btn-info" style="width: 40%">Download my CV</button>
+                      <button class="btn btn-info" style="width: 40%" ><a href="resume"> Get my CV</a></button>
                   </p>
                  <div class="socials">
                     <ul>
