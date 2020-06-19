@@ -1,0 +1,16 @@
+.spark{
+	font-size: 25px;
+	color: rgba(225,225,225,.1);
+	background-image: url(../img/spark.jpg);
+	background-repeat: repeat-x;
+	-webkit-background-clip:text;
+	animation: animate 15s linear infinite;
+}
+		@keyframes animate {
+			0%{
+				background-position: left 0px top 10px;
+			}
+			40%{
+				background-position: left 800px top 10px;
+			}
+}
